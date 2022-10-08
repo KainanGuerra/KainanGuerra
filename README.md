@@ -35,12 +35,10 @@
   <a href="mailto:kainanguerra@hotmail.com?subject=I%C2%B4ve%20seen%20your%20Github&body=I%20would%20like%20to%20know...">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt=""></a>
   
-  <a href="https://msng.link/o/?kainan_guerra_=ig">
+  <a href="https://www.instagram.com/kainan_guerra_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 
   <a href="https://www.linkedin.com/in/kainan-guerra-0763a11a6/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-
-
-
+  
 </div>
