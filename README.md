@@ -11,5 +11,5 @@ Hello World! I'm Kainan Guerra
 </div>
 <br>
 <div display="inline-block"> 
-     <img src="link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+     <img align="center" height="30" width="40" src="link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 </div>          
