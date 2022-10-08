@@ -1,7 +1,7 @@
 ##   Olá Mundo. Meu nome é Kainan Guerra
 
 <li>📚 Estou cursando Análise e Desenvolvimento de Sistemas</li>
-
+<br>
 <div width="100%" display="flex" justify-content="space-between">
   <a href="https://github.com/KainanGuerra"></a>
   
