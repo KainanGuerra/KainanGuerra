@@ -7,6 +7,6 @@
 <div>
   <a href="https://github.com/KainanGuerra"></a>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kainanguerra&theme=dark&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainanguerra&layout=compact&theme=dark"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=kainanguerra&theme=dark&show_icons=true"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainanguerra&layout=compact&theme=dark"/>
 </div>
