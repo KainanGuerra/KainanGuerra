@@ -1,6 +1,6 @@
 ##   Olá Mundo. Meu nome é Kainan Guerra
 
-- 📚 Estou cursando Análise e Desenvolvimento de Sistemas
+<li>📚 Estou cursando Análise e Desenvolvimento de Sistemas</li>
 
 <div width="100%" display="flex" justify-content="space-between">
   <a href="https://github.com/KainanGuerra"></a>
@@ -9,7 +9,7 @@
   <img width="49%" height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kainanguerra&theme=dark&show_icons=true&layout=compact"/>
 </div>
 <br>
-- 👨‍💻 Estou estudando:
+<li>👨‍💻 Estou estudando:</li>
 <br> <br>
 <div style="display:inline-block">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -26,7 +26,7 @@
     <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 </div>
 <hr>
-- ✉️ Meus contatos e redes sociais: 
+<li>✉️ Meus contatos e redes sociais:</li>
 <br> <br>
 <div>
   <a href="https://api.whatsapp.com/send?phone=5511966263413&text=Ol%C3%A1%2C%20vim%20atrav%C3%A9s%20do%20seu%20GitHub!">
