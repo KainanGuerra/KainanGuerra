@@ -1,7 +1,6 @@
-   Hello World! I'm Kainan Guerra
+##   Hello World! I'm Kainan Guerra
 
-- 💾 I'm currently stugying systems analysis and development
-- 📫 Contact me via e-mail: kainanguerra@hotmail.com
+- 📚 Análise e Desenvolvimento de Sistemas - Cruzeiro do Sul
 
 <div width="100%" display="flex" justify-content="space-between">
   <a href="https://github.com/KainanGuerra"></a>
@@ -23,4 +22,4 @@
     <img align="center" width="40" height="30"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
         <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">      
     <img align="center" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-</div>          
+</div>
